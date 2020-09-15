@@ -13,8 +13,8 @@
 <?php
 include("views/add-user.php");
 include('controlleurs/Utilisateurs.php');
-include('models/Utilisateurs.php');
-getUsers() ;
+
+
 ?>
 </body>
 
